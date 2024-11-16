@@ -11,6 +11,5 @@ namespace DesafioPOO.Models
         {
             Console.WriteLine($"Instalando Aplicativo: {valor} no Iphone");
         }
-        // TODO: Sobrescrever o método "InstalarAplicativo"
     }
 }
